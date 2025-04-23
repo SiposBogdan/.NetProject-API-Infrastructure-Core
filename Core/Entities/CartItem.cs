@@ -2,7 +2,7 @@ using System;
 
 namespace Core.Entities;
 
-public class ShoppingCartItem
+public class CartItem
 {
     public int ProductId { get; set; }
     public required string ProductName { get; set; }
