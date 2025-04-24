@@ -18,7 +18,6 @@ This project is a complete E-Commerce web application built using **.NET 8** for
 - Angular Reactive Forms + Custom Validators
 - Angular Material + TailwindCSS UI
 - Pagination, Sorting, Searching, Filtering
-- Real-Time Notifications with SignalR
 
 ---
 
@@ -30,7 +29,6 @@ This project is a complete E-Commerce web application built using **.NET 8** for
 - Implementing advanced architectural patterns in .NET
 - Using Redis to persist shopping cart state
 - Processing payments using Stripe (w/ 3D Secure)
-- Real-time features using SignalR
 - Building clean, reusable components with Angular
 
 
